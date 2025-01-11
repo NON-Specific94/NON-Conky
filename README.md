@@ -1,3 +1,5 @@
+![Alt text](https://github.com/NON-Specific94/NON-Conky/blob/main/NON-Conky/NON-Conky.conf.png?raw=true)
+
 # NON-Conky by NON-Specific94
 
 Conky by me which was created based on Conky "Eltanin" by closebox73 and Minimalist Conky by neoreuvenla
