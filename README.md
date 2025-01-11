@@ -9,9 +9,13 @@ Conky by me which was created based on Conky "Eltanin" by closebox73 and Minimal
 
 ## Installation
 
-1. Download and install Conky Manager
+1. Download and install conky-manager2 
 
-2. Download this repository via terminal with the command
+```bash
+  https://github.com/zcot/conky-manager2
+```
+   
+3. Download this repository via terminal with the command
 
 ```bash
   git clone https://github.com/NON-Specific94/NON-Conky.git
