@@ -2,7 +2,8 @@
 
 # NON-Conky by NON-Specific94
 
-Conky by me which was created based on Conky "Eltanin" by closebox73 and Minimalist Conky by neoreuvenla
+Conky by me which was created based on Conky "Eltanin" by [closebox73](https://github.com/closebox73) and Minimalist Conky by [neoreuvenla
+](https://github.com/neoreuvenla) 
 
 
 
